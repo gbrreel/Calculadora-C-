@@ -1,0 +1,15 @@
+/Users/GabrielGallo/Códigos/git/EstudosC#/Calculadora C#/Calculadora-C-/CalculadoraCSharp/bin/Debug/net9.0/CalculadoraCSharp
+/Users/GabrielGallo/Códigos/git/EstudosC#/Calculadora C#/Calculadora-C-/CalculadoraCSharp/bin/Debug/net9.0/CalculadoraCSharp.deps.json
+/Users/GabrielGallo/Códigos/git/EstudosC#/Calculadora C#/Calculadora-C-/CalculadoraCSharp/bin/Debug/net9.0/CalculadoraCSharp.runtimeconfig.json
+/Users/GabrielGallo/Códigos/git/EstudosC#/Calculadora C#/Calculadora-C-/CalculadoraCSharp/bin/Debug/net9.0/CalculadoraCSharp.dll
+/Users/GabrielGallo/Códigos/git/EstudosC#/Calculadora C#/Calculadora-C-/CalculadoraCSharp/bin/Debug/net9.0/CalculadoraCSharp.pdb
+/Users/GabrielGallo/Códigos/git/EstudosC#/Calculadora C#/Calculadora-C-/CalculadoraCSharp/obj/Debug/net9.0/CalculadoraCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GabrielGallo/Códigos/git/EstudosC#/Calculadora C#/Calculadora-C-/CalculadoraCSharp/obj/Debug/net9.0/CalculadoraCSharp.AssemblyInfoInputs.cache
+/Users/GabrielGallo/Códigos/git/EstudosC#/Calculadora C#/Calculadora-C-/CalculadoraCSharp/obj/Debug/net9.0/CalculadoraCSharp.AssemblyInfo.cs
+/Users/GabrielGallo/Códigos/git/EstudosC#/Calculadora C#/Calculadora-C-/CalculadoraCSharp/obj/Debug/net9.0/CalculadoraCSharp.csproj.CoreCompileInputs.cache
+/Users/GabrielGallo/Códigos/git/EstudosC#/Calculadora C#/Calculadora-C-/CalculadoraCSharp/obj/Debug/net9.0/CalculadoraCSharp.sourcelink.json
+/Users/GabrielGallo/Códigos/git/EstudosC#/Calculadora C#/Calculadora-C-/CalculadoraCSharp/obj/Debug/net9.0/CalculadoraCSharp.dll
+/Users/GabrielGallo/Códigos/git/EstudosC#/Calculadora C#/Calculadora-C-/CalculadoraCSharp/obj/Debug/net9.0/refint/CalculadoraCSharp.dll
+/Users/GabrielGallo/Códigos/git/EstudosC#/Calculadora C#/Calculadora-C-/CalculadoraCSharp/obj/Debug/net9.0/CalculadoraCSharp.pdb
+/Users/GabrielGallo/Códigos/git/EstudosC#/Calculadora C#/Calculadora-C-/CalculadoraCSharp/obj/Debug/net9.0/CalculadoraCSharp.genruntimeconfig.cache
+/Users/GabrielGallo/Códigos/git/EstudosC#/Calculadora C#/Calculadora-C-/CalculadoraCSharp/obj/Debug/net9.0/ref/CalculadoraCSharp.dll
