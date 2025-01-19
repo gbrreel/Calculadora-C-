@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/GabrielGallo/Códigos/git/EstudosC#/Calculadora C#/Calculadora-C-/CalculadoraCSharp/CalculadoraCSharp.csproj",
+      "projectUniqueName": "/Users/GabrielGallo/Códigos/git/EstudosC#/Calculadora C#/Calculadora-C-/CalculadoraCSharp/CalculadoraCSharp.csproj",
       "projectName": "CalculadoraCSharp",
-      "projectPath": "/Users/GabrielGallo/Códigos/git/EstudosC#/Calculadora C#/Calculadora-C-/CalculadoraCSharp/CalculadoraCSharp.csproj",
+      "projectPath": "/Users/GabrielGallo/Códigos/git/EstudosC#/Calculadora C#/Calculadora-C-/CalculadoraCSharp/CalculadoraCSharp.csproj",
       "packagesPath": "/Users/GabrielGallo/.nuget/packages/",
-      "outputPath": "/Users/GabrielGallo/Códigos/git/EstudosC#/Calculadora C#/Calculadora-C-/CalculadoraCSharp/obj/",
+      "outputPath": "/Users/GabrielGallo/Códigos/git/EstudosC#/Calculadora C#/Calculadora-C-/CalculadoraCSharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/GabrielGallo/.nuget/NuGet/NuGet.Config"
